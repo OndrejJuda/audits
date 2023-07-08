@@ -2,9 +2,9 @@
 
 ## All Time Stats
 
-| Protocol                                                                | High | Medium |
-| ----------------------------------------------------------------------- | ---- | ------ |
-| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol) | 0    | 1      |
+| Protocol                                                                | Date      | Platform | Rank    | High | Medium |
+| ----------------------------------------------------------------------- | --------- | -------- | ------- | ---- | ------ |
+| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol) | June 2023 | Sherlock | 23 - 27 | 0    | 1      |
 
 ## June 2023
 

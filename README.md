@@ -4,7 +4,7 @@
 
 | Protocol                                                                | Date      | Platform | Rank    | High | Medium |
 | ----------------------------------------------------------------------- | --------- | -------- | ------- | ---- | ------ |
-| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol) | June 2023 | Sherlock | 23 - 27 | 0    | 1      |
+| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol) | June 2023 | Sherlock | 12      | 0    | 1      |
 
 ## June 2023
 

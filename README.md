@@ -11,7 +11,7 @@ Discord: 0xjuda
 | Protocol                                                                  | Date      | Platform  | Rank    | High | Medium |
 | ------------------------------------------------------------------------- | --------- | --------- | ------- | ---- | ------ |
 | [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow) | July 2023 | CodeHawks | ?       | 1    | 3      |
-| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)   | June 2023 | Sherlock  | 23 - 27 | 0    | 1      |
+| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)   | June 2023 | Sherlock  | 12      | 0    | 1      |
 
 ## July 2023
 

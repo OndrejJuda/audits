@@ -11,10 +11,26 @@ Discord: 0xjuda
 | Protocol                                                                  | Date           | Platform  | Rank    | High | Medium | Low |
 | ------------------------------------------------------------------------- | -------------- | --------- | ------- | ---- | ------ | --- |
 | [Chainlink Staking v0.2](https://github.com/code-423n4/2023-08-chainlink) | September 2023 | Code4rena | ?       | ?    | ?      | ?   |
-| [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                   | August 2023    | Sherlock  | ?       | ?    | ?      | ?   |
+| [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                   | August 2023    | Sherlock  | ?       | 4    | 1      | 0   |
 | [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow) | July 2023      | CodeHawks | ?       | 0    | 3      | 1   |
 | [Beedle](https://github.com/OndrejJuda/audits#beedle)                     | July 2023      | CodeHawks | 151     | 2    | 1      | 0   |
 | [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)   | June 2023      | Sherlock  | 12      | 0    | 1      | 0   |
+
+## August 2023
+
+### Tokemak
+
+Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/101)
+
+Repository: [github.com/sherlock-audit/2023-06-tokemak](https://github.com/sherlock-audit/2023-06-tokemak)
+
+| ID                                                                                             | Title                                                                | Severity |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------- |
+| [H-01](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-08-Tokemak/H-01.md) | User can transfer LMPVault shares to claim rewards multiple times    | High     |
+| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-08-Tokemak/H-02.md) | Router double accounting problem and exposed funds in smart contract | High     |
+| [H-03](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-08-Tokemak/H-03.md) | Liquidations miss delegate call to swapper                           | High     |
+| [H-04](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-08-Tokemak/H-04.md) | User can deposit and immediatelly withdraw to steal rewards          | High     |
+| [M-01](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-08-Tokemak/M-01.md) | AddWethRewards problem with rounding zero                            | Medium   |
 
 ## July 2023
 

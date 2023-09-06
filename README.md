@@ -6,6 +6,11 @@ Twitter: [@0xOndrejJuda](https://twitter.com/0xOndrejJuda)
 
 Discord: 0xjuda
 
+Contest / bug bounty platform profiles:
+
+- [Code4rena](https://code4rena.com/@0xJuda)
+- [CodeHawks](https://www.codehawks.com/profile/clkhuag2y0000ld08utph38va)
+
 ## All Time Stats
 
 | Protocol                                                                              | Date           | Platform  | Rank    | High | Medium | Low |

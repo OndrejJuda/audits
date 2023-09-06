@@ -8,13 +8,29 @@ Discord: 0xjuda
 
 ## All Time Stats
 
-| Protocol                                                                  | Date           | Platform  | Rank    | High | Medium | Low |
-| ------------------------------------------------------------------------- | -------------- | --------- | ------- | ---- | ------ | --- |
-| [Chainlink Staking v0.2](https://github.com/code-423n4/2023-08-chainlink) | September 2023 | Code4rena | ?       | ?    | ?      | ?   |
-| [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                   | August 2023    | Sherlock  | ?       | ?    | ?      | ?   |
-| [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow) | July 2023      | CodeHawks | ?       | 0    | 3      | 1   |
-| [Beedle](https://github.com/OndrejJuda/audits#beedle)                     | July 2023      | CodeHawks | 151     | 2    | 1      | 0   |
-| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)   | June 2023      | Sherlock  | 12      | 0    | 1      | 0   |
+| Protocol                                                                              | Date           | Platform  | Rank    | High | Medium | Low |
+| ------------------------------------------------------------------------------------- | -------------- | --------- | ------- | ---- | ------ | --- |
+| [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v0.2) | September 2023 | Code4rena | ?       | ?    | ?      | ?   |
+| [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                               | August 2023    | Sherlock  | ?       | ?    | ?      | ?   |
+| [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow)             | July 2023      | CodeHawks | ?       | 0    | 3      | 1   |
+| [Beedle](https://github.com/OndrejJuda/audits#beedle)                                 | July 2023      | CodeHawks | 151     | 2    | 1      | 0   |
+| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)               | June 2023      | Sherlock  | 12      | 0    | 1      | 0   |
+
+## September 2023
+
+### [Work In Progress] Chainlink Staking v0.2
+
+Contest link: [code4rena.com](https://code4rena.com/contests/2023-08-chainlink-staking-v02)
+
+Repository: [github.com/code-423n4/2023-08-chainlink](https://github.com/code-423n4/2023-08-chainlink)
+
+## August 2023
+
+### [Work In Progress] Tokemak
+
+Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/101)
+
+Repository: [github.com/sherlock-audit/2023-06-tokemak](https://github.com/sherlock-audit/2023-06-tokemak)
 
 ## July 2023
 

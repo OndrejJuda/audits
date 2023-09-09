@@ -17,10 +17,10 @@ Contest / bug bounty platform profiles:
 | ------------------------------------------------------------------------------------ | -------------- | --------- | ---- | ---- | ------ | --- |
 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
-| [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                              | August 2023    | Sherlock  | ?    | ?    | ?      | ?   |
+| [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                              | August 2023    | Sherlock  | ?    | ?    | ?      | -   |
 | [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow)            | July 2023      | CodeHawks | 7    | 0    | 3      | 1   |
 | [Beedle](https://github.com/OndrejJuda/audits#beedle)                                | July 2023      | CodeHawks | 151  | 2    | 1      | 0   |
-| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | June 2023      | Sherlock  | 12   | 0    | 1      | 0   |
+| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | June 2023      | Sherlock  | 12   | 0    | 1      | -   |
 
 ## September 2023
 

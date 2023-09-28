@@ -15,7 +15,7 @@ Contest / bug bounty platform profiles:
 
 | Protocol                                                                             | Date           | Platform  | Rank | High | Medium | Low |
 | ------------------------------------------------------------------------------------ | -------------- | --------- | ---- | ---- | ------ | --- |
-| [Ditto](https://github.com/OndrejJuda/audits#ditto)                                  | September 2023 | CodeHawks | ?    | ?    | ?      | ?   |
+| [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
 | [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                              | August 2023    | Sherlock  | ?    | ?    | ?      | -   |
@@ -25,11 +25,11 @@ Contest / bug bounty platform profiles:
 
 ## September 2023
 
-### [Work In Progress] Ditto
+### [Work In Progress] Venus Prime
 
-Contest link: [codehawks.com](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)
+Contest link: [code4rena.com](https://code4rena.com/contests/2023-09-venus)
 
-Repository: [github.com/Cyfrin/2023-09-ditto](https://github.com/Cyfrin/2023-09-ditto)
+Repository: [https://github.com/code-423n4/2023-09-venus](https://github.com/code-423n4/2023-09-venus)
 
 ### [Work In Progress] Centrifuge
 

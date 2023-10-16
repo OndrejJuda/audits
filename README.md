@@ -15,7 +15,7 @@ Contest / bug bounty platform profiles:
 
 | Protocol                                                                             | Date           | Platform  | Rank | High | Medium | Low |
 | ------------------------------------------------------------------------------------ | -------------- | --------- | ---- | ---- | ------ | --- |
-| [Aloe](https://github.com/OndrejJuda/audits#aloe)                                    | October 2023   | Sherlock  | ?    | ?    | ?      | ?   |
+| [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | October 2023   | Sherlock  | ?    | ?    | ?      | ?   |
 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | September 2023 | Code4rena | x    | 0    | 0      | 0   |
 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | x    | 0    | 0      | 0   |
 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
@@ -26,11 +26,11 @@ Contest / bug bounty platform profiles:
 
 ## October 2023
 
-### [Work In Progress] Aloe
+### [Work In Progress] Real Wagmi #2
 
-Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/120)
+Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/118)
 
-Repository: [https://github.com/sherlock-audit/2023-10-aloe](https://github.com/sherlock-audit/2023-10-aloe)
+Repository: [github.com/sherlock-audit/2023-10-real-wagmi](https://github.com/sherlock-audit/2023-10-real-wagmi)
 
 ## September 2023
 

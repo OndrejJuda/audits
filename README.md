@@ -15,23 +15,32 @@ Contest / bug bounty platform profiles:
 
 | Protocol                                                                             | Date           | Platform  | Rank | High | Medium | Low |
 | ------------------------------------------------------------------------------------ | -------------- | --------- | ---- | ---- | ------ | --- |
-| [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
-| [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
+| [Aloe](https://github.com/OndrejJuda/audits#aloe)                                    | October 2023   | Sherlock  | ?    | ?    | ?      | ?   |
+| [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | September 2023 | Code4rena | x    | 0    | 0      | 0   |
+| [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | x    | 0    | 0      | 0   |
 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
 | [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                              | August 2023    | Sherlock  | ?    | ?    | ?      | -   |
 | [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow)            | July 2023      | CodeHawks | 7    | 0    | 3      | 1   |
 | [Beedle](https://github.com/OndrejJuda/audits#beedle)                                | July 2023      | CodeHawks | 151  | 2    | 1      | 0   |
 | [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | June 2023      | Sherlock  | 12   | 0    | 1      | -   |
 
+## October 2023
+
+### [Work In Progress] Aloe
+
+Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/120)
+
+Repository: [https://github.com/sherlock-audit/2023-10-aloe](https://github.com/sherlock-audit/2023-10-aloe)
+
 ## September 2023
 
-### [Work In Progress] Venus Prime
+### Venus Prime
 
 Contest link: [code4rena.com](https://code4rena.com/contests/2023-09-venus)
 
 Repository: [https://github.com/code-423n4/2023-09-venus](https://github.com/code-423n4/2023-09-venus)
 
-### [Work In Progress] Centrifuge
+### Centrifuge
 
 Contest link: [code4rena.com](https://code4rena.com/contests/2023-09-centrifuge)
 

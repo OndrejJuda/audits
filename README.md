@@ -10,6 +10,7 @@ Contest / bug bounty platform profiles:
 
 - [Code4rena](https://code4rena.com/@0xJuda)
 - [CodeHawks](https://www.codehawks.com/profile/clkhuag2y0000ld08utph38va)
+- [Sherlock](https://audits.sherlock.xyz/watson/0xJuda)
 
 ## All Time Stats
 

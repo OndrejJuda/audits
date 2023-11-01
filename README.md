@@ -30,7 +30,6 @@ Repository: [github.com/sherlock-audit/2023-06-tokemak](https://github.com/sherl
 | [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-08-Tokemak/H-02.md) | Router double accounting problem and exposed funds in smart contract | High     |
 | [H-03](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-08-Tokemak/H-03.md) | Liquidations miss delegate call to swapper                           | High     |
 | [H-04](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-08-Tokemak/H-04.md) | User can deposit and immediatelly withdraw to steal rewards          | High     |
-| [M-01](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-08-Tokemak/M-01.md) | AddWethRewards problem with rounding zero                            | Medium   |
 
 ## July 2023
 

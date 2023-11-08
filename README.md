@@ -16,7 +16,7 @@ Contest / bug bounty platform profiles:
 
 | Protocol                                                                             | Date           | Platform  | Rank | High | Medium | Low |
 | ------------------------------------------------------------------------------------ | -------------- | --------- | ---- | ---- | ------ | --- |
-| [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | November 2023  | Code4rena | ?    | ?    | ?      | ?   |
+| [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | November 2023  | Code4rena | ?    | 2    | ?      | ?   |
 | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | October 2023   | Sherlock  | ?    | ?    | ?      | ?   |
 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | September 2023 | Code4rena | x    | 0    | 0      | 0   |
 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | x    | 0    | 0      | 0   |

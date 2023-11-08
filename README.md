@@ -16,6 +16,7 @@ Contest / bug bounty platform profiles:
 
 | Protocol                                                                             | Date           | Platform  | Rank | High | Medium | Low |
 | ------------------------------------------------------------------------------------ | -------------- | --------- | ---- | ---- | ------ | --- |
+| [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | November 2023  | Code4rena | ?    | ?    | ?      | ?   |
 | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | October 2023   | Sherlock  | ?    | ?    | ?      | ?   |
 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | September 2023 | Code4rena | x    | 0    | 0      | 0   |
 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | x    | 0    | 0      | 0   |
@@ -24,6 +25,14 @@ Contest / bug bounty platform profiles:
 | [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow)            | July 2023      | CodeHawks | 7    | 0    | 3      | 1   |
 | [Beedle](https://github.com/OndrejJuda/audits#beedle)                                | July 2023      | CodeHawks | 151  | 2    | 1      | 0   |
 | [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | June 2023      | Sherlock  | 12   | 0    | 1      | -   |
+
+## November 2023
+
+### [Work In Progress] NextGen
+
+Contest link: [code4rena.com](https://code4rena.com/contests/2023-10-nextgen)
+
+Repository: [https://github.com/code-423n4/2023-10-nextgen](https://github.com/code-423n4/2023-10-nextgen)
 
 ## October 2023
 

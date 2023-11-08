@@ -34,6 +34,11 @@ Contest link: [code4rena.com](https://code4rena.com/contests/2023-10-nextgen)
 
 Repository: [https://github.com/code-423n4/2023-10-nextgen](https://github.com/code-423n4/2023-10-nextgen)
 
+| ID                                                                                              | Title                                                                                          | Severity |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------- |
+| [H-01](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-01.md) | Bids will be stuck in the auction contract if the winner doesn't implement onERC721Received    | High     |
+| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-02.md) |                                                                                                | High     |
+
 ## October 2023
 
 ### [Work In Progress] Real Wagmi #2

@@ -14,61 +14,63 @@ Contest / bug bounty platform profiles:
 
 ## All Time Stats
 
-| Protocol                                                                             | Date           | Platform  | Rank | High | Medium | Low |
-| ------------------------------------------------------------------------------------ | -------------- | --------- | ---- | ---- | ------ | --- |
-| [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | November 2023  | Code4rena | ?    | ?    | ?      | ?   |
-| [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | October 2023   | Sherlock  | ?    | ?    | ?      | ?   |
-| [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | September 2023 | Code4rena | x    | 0    | 0      | 0   |
-| [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | x    | 0    | 0      | 0   |
-| [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
-| [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                              | August 2023    | Sherlock  | 47   | 4    | 0      | -   |
-| [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow)            | July 2023      | CodeHawks | 7    | 0    | 3      | 1   |
-| [Beedle](https://github.com/OndrejJuda/audits#beedle)                                | July 2023      | CodeHawks | 151  | 2    | 1      | 0   |
-| [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | June 2023      | Sherlock  | 12   | 0    | 1      | -   |
+| Date           | Protocol                                                                             | Platform  | Rank | High | Medium | Low |
+| -------------- | ------------------------------------------------------------------------------------ | --------- | ---- | ---- | ------ | --- |
+| November 2023  | [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | Code4rena | ?    | ?    | ?      | ?   |
+| October 2023   | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | Sherlock  | ?    | ?    | ?      | ?   |
+| September 2023 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | Code4rena | x    | 0    | 0      | 0   |
+| September 2023 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | Code4rena | x    | 0    | 0      | 0   |
+| September 2023 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | Code4rena | ?    | ?    | ?      | ?   |
+| August 2023    | [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                              | Sherlock  | 47   | 4    | 0      | -   |
+| July 2023      | [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow)            | CodeHawks | 7    | 0    | 3      | 1   |
+| July 2023      | [Beedle](https://github.com/OndrejJuda/audits#beedle)                                | CodeHawks | 151  | 2    | 1      | 0   |
+| June 2023      | [Real Wagmi](https://github.com/OndrejJuda/audits#real-wagmi)                        | Sherlock  | x    | 0    | 0      | -   |
+| June 2023      | [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | Sherlock  | 12   | 0    | 1      | -   |
+| Summary        | 10                                                                                   |           |      | 6    | 5      | 1   |
 
 ## November 2023
 
 ### [Work In Progress] NextGen
 
-Contest link: [code4rena.com](https://code4rena.com/contests/2023-10-nextgen)
+Advanced smart contracts for launching generative art projects on Ethereum.
 
-Repository: [https://github.com/code-423n4/2023-10-nextgen](https://github.com/code-423n4/2023-10-nextgen)
+Contest link: [code4rena.com](https://code4rena.com/contests/2023-10-nextgen)
 
 ## October 2023
 
 ### [Work In Progress] Real Wagmi #2
 
-Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/118)
+Unlock the power of DeFi with Wagmi - an all-in-one platform for trading, liquidity provision, swapping, and yield strategy generation.
 
-Repository: [github.com/sherlock-audit/2023-10-real-wagmi](https://github.com/sherlock-audit/2023-10-real-wagmi)
+Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/118)
 
 ## September 2023
 
 ### Venus Prime
 
-Contest link: [code4rena.com](https://code4rena.com/contests/2023-09-venus)
+Earn, borrow & lend on the #1 Decentralized Money Market on the BNB chain.
 
-Repository: [https://github.com/code-423n4/2023-09-venus](https://github.com/code-423n4/2023-09-venus)
+Contest link: [code4rena.com](https://code4rena.com/contests/2023-09-venus-prime)
 
 ### Centrifuge
 
-Contest link: [code4rena.com](https://code4rena.com/contests/2023-09-centrifuge)
+The institutional ecosystem for on-chain credit.
 
-Repository: [github.com/code-423n4/2023-09-centrifuge](https://github.com/code-423n4/2023-09-centrifuge)
+Contest link: [code4rena.com](https://code4rena.com/contests/2023-09-centrifuge)
 
 ### [Work In Progress] Chainlink Staking v0.2
 
-Contest link: [code4rena.com](https://code4rena.com/contests/2023-08-chainlink-staking-v02)
+A security mechanism in which stakers commit LINK in smart contracts to back certain performance guarantees around oracle services.
 
-Repository: [github.com/code-423n4/2023-08-chainlink](https://github.com/code-423n4/2023-08-chainlink)
+Contest link: [code4rena.com](https://code4rena.com/contests/2023-08-chainlink-staking-v02)
 
 ## August 2023
 
 ### Tokemak
 
-Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/101)
+Generating sustainable liquidity for the tokenized world. Eliminating inefficiencies and helping LPs to deploy liquidity where it can do the most work is exactly why the Tokemak v2 is built.
 
-Repository: [github.com/sherlock-audit/2023-06-tokemak](https://github.com/sherlock-audit/2023-06-tokemak)
+Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/101)
 
 | ID                                                                                             | Title                                                                | Severity |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------- |
@@ -81,9 +83,9 @@ Repository: [github.com/sherlock-audit/2023-06-tokemak](https://github.com/sherl
 
 ### CodeHawks Escrow
 
-Contest link: [codehawks.com](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)
+This project is meant to enable smart contract auditors (sellers) and smart contract protocols looking for audits (buyers) to connect using a credibly neutral option, with optional arbitration.
 
-Repository: [github.com/Cyfrin/2023-07-escrow](https://github.com/Cyfrin/2023-07-escrow)
+Contest link: [codehawks.com](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)
 
 | ID                                                                                             | Title                                                             | Severity |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
@@ -94,9 +96,9 @@ Repository: [github.com/Cyfrin/2023-07-escrow](https://github.com/Cyfrin/2023-07
 
 ### Beedle
 
-Contest link: [codehawks.com](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)
+Oracle free peer to peer perpetual lending.
 
-Repository: [github.com/Cyfrin/2023-07-beedle](https://github.com/Cyfrin/2023-07-beedle)
+Contest link: [codehawks.com](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)
 
 | ID                                                                                             | Title                                                                            | Severity |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------- |
@@ -106,11 +108,17 @@ Repository: [github.com/Cyfrin/2023-07-beedle](https://github.com/Cyfrin/2023-07
 
 ## June 2023
 
+### Real Wagmi
+
+Swap earn and provide liquidity on the leading decentralized protocol built on zkSync. Experience the future of decentralized finance with Wagmi.
+
+Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/88)
+
 ### Unitas Protocol
 
-Contest link: [sherlock.xyz](https://app.sherlock.xyz/audits/contests/73)
+Unitized stablecoins serving as units of account representing emerging market currencies. A new currency revolution.
 
-Repository: [github.com/2023-04-unitasprotocol-judging](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging)
+Contest link: [sherlock.xyz](https://app.sherlock.xyz/audits/contests/73)
 
 | ID                                                                                            | Title                                                    | Severity |
 | --------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- |

@@ -34,10 +34,11 @@ Contest link: [code4rena.com](https://code4rena.com/contests/2023-10-nextgen)
 
 Repository: [https://github.com/code-423n4/2023-10-nextgen](https://github.com/code-423n4/2023-10-nextgen)
 
-| ID                                                                                              | Title                                                                                          | Severity |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------- |
-| [H-01](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-01.md) | Bids will be stuck in the auction contract if the winner doesn't implement onERC721Received    | High     |
-| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-02.md) |                                                                                                | High     |
+| ID                                                                                              | Title                                                                                                                        | Severity |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [H-01](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-01.md) | Bids will be stuck in the auction contract if the winner doesn't implement onERC721Received                                  | High     |
+| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-02.md) | Active bidder may reenter into cancelBid from claimAuction to profit at the expense of the contract and original token owner | High     |
+| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-02.md) | Hacker can DoS auction and gas grief claimAuction caller                                                                     | High     |
 
 ## October 2023
 

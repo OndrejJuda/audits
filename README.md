@@ -16,7 +16,7 @@ Contest / bug bounty platform profiles:
 
 | Protocol                                                                             | Date           | Platform  | Rank | High | Medium | Low |
 | ------------------------------------------------------------------------------------ | -------------- | --------- | ---- | ---- | ------ | --- |
-| [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | November 2023  | Code4rena | ?    | 2    | ?      | ?   |
+| [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | November 2023  | Code4rena | ?    | 4    | ?      | ?   |
 | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | October 2023   | Sherlock  | ?    | ?    | ?      | ?   |
 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | September 2023 | Code4rena | x    | 0    | 0      | 0   |
 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | x    | 0    | 0      | 0   |
@@ -38,7 +38,8 @@ Repository: [https://github.com/code-423n4/2023-10-nextgen](https://github.com/c
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [H-01](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-01.md) | Bids will be stuck in the auction contract if the winner doesn't implement onERC721Received                                  | High     |
 | [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-02.md) | Active bidder may reenter into cancelBid from claimAuction to profit at the expense of the contract and original token owner | High     |
-| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-02.md) | Hacker can DoS auction and gas grief claimAuction caller                                                                     | High     |
+| [H-03](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-03.md) | Hacker can DoS auction and gas grief claimAuction caller                                                                     | High     |
+| [H-04](https://github.com/OndrejJuda/audits/blob/main/audits/code4rena/2023-10-NextGen/H-04.md) | User can mint more tokens than he should during the allowlist phase                                                          | High     |
 
 ## October 2023
 

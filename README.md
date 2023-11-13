@@ -44,10 +44,10 @@ Unlock the power of DeFi with Wagmi - an all-in-one platform for trading, liquid
 
 Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/118)
 
-| ID                                                                                                   | Title                                                                                                       | Severity |
-| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------- |
-| [H-01](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-10-Real-Wagmi-2/H-01.md) | Slippage protection for LiquidityBorrowingManager#repay doesn't work                                        | High     |
-| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-10-Real-Wagmi-2/H-02.md) | Lender burning his position makes complete repay of borrow position impossible                              | High     |
+| ID                                                                                                  | Title                                                                          | Severity |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------- |
+| [H-01](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-10-Real-Wagmi-2/H-01.md) | Slippage protection for LiquidityBorrowingManager#repay doesn't work           | High     |
+| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/sherlock/2023-10-Real-Wagmi-2/H-02.md) | Lender burning his position makes complete repay of borrow position impossible | High     |
 
 ## September 2023
 

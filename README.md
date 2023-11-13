@@ -15,7 +15,7 @@ Contest / bug bounty platform profiles:
 
 | Protocol                                                                             | Date           | Platform  | Rank | High | Medium | Low |
 | ------------------------------------------------------------------------------------ | -------------- | --------- | ---- | ---- | ------ | --- |
-| [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | October 2023   | Sherlock  | ?    | 1    | 2      | -   |
+| [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | October 2023   | Sherlock  | 8    | 2    | 0      | -   |
 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | September 2023 | Code4rena | x    | 0    | 0      | 0   |
 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | September 2023 | Code4rena | x    | 0    | 0      | 0   |
 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | September 2023 | Code4rena | ?    | ?    | ?      | ?   |
@@ -26,7 +26,7 @@ Contest / bug bounty platform profiles:
 
 ## October 2023
 
-### [Work In Progress] Real Wagmi #2
+### Real Wagmi #2
 
 Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/118)
 
@@ -35,8 +35,7 @@ Repository: [github.com/sherlock-audit/2023-10-real-wagmi](https://github.com/sh
 | ID                                                                                                   | Title                                                                                                       | Severity |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------- |
 | [H-01](https://github.com/OndrejJuda/audits/blob/main/audits/codehawks/2023-10-Real-Wagmi-2/H-01.md) | Slippage protection for LiquidityBorrowingManager#repay doesn't work                                        | High     |
-| [M-01](https://github.com/OndrejJuda/audits/blob/main/audits/codehawks/2023-10-Real-Wagmi-2/M-01.md) | Unfair distribution of liquidation bonus in LiquidityBorrowingManager#repay during emergency withdrawal     | Medium   |
-| [M-02](https://github.com/OndrejJuda/audits/blob/main/audits/codehawks/2023-10-Real-Wagmi-2/M-02.md) | Lender burning his position makes complete repay of borrow position impossible                              | Medium   |
+| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/codehawks/2023-10-Real-Wagmi-2/H-02.md) | Lender burning his position makes complete repay of borrow position impossible                              | High     |
 
 ## September 2023
 

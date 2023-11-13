@@ -17,7 +17,7 @@ Contest / bug bounty platform profiles:
 | Date           | Protocol                                                                             | Platform  | Rank | High | Medium | Low |
 | -------------- | ------------------------------------------------------------------------------------ | --------- | ---- | ---- | ------ | --- |
 | November 2023  | [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | Code4rena | ?    | ?    | ?      | ?   |
-| October 2023   | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | Sherlock  | ?    | ?    | ?      | ?   |
+| October 2023   | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | Sherlock  | 8    | 2    | 0      | -   |
 | September 2023 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | Code4rena | x    | 0    | 0      | 0   |
 | September 2023 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | Code4rena | x    | 0    | 0      | 0   |
 | September 2023 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | Code4rena | ?    | ?    | ?      | ?   |
@@ -26,7 +26,7 @@ Contest / bug bounty platform profiles:
 | July 2023      | [Beedle](https://github.com/OndrejJuda/audits#beedle)                                | CodeHawks | 151  | 2    | 1      | 0   |
 | June 2023      | [Real Wagmi](https://github.com/OndrejJuda/audits#real-wagmi)                        | Sherlock  | x    | 0    | 0      | -   |
 | June 2023      | [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | Sherlock  | 12   | 0    | 1      | -   |
-| Summary        | 10                                                                                   |           |      | 6    | 5      | 1   |
+| Summary        | 10                                                                                   |           |      | 8    | 5      | 1   |
 
 ## November 2023
 
@@ -38,11 +38,16 @@ Contest link: [code4rena.com](https://code4rena.com/contests/2023-10-nextgen)
 
 ## October 2023
 
-### [Work In Progress] Real Wagmi #2
+### Real Wagmi #2
 
 Unlock the power of DeFi with Wagmi - an all-in-one platform for trading, liquidity provision, swapping, and yield strategy generation.
 
 Contest link: [sherlock.xyz](https://audits.sherlock.xyz/contests/118)
+
+| ID                                                                                                   | Title                                                                                                       | Severity |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------- |
+| [H-01](https://github.com/OndrejJuda/audits/blob/main/audits/codehawks/2023-10-Real-Wagmi-2/H-01.md) | Slippage protection for LiquidityBorrowingManager#repay doesn't work                                        | High     |
+| [H-02](https://github.com/OndrejJuda/audits/blob/main/audits/codehawks/2023-10-Real-Wagmi-2/H-02.md) | Lender burning his position makes complete repay of borrow position impossible                              | High     |
 
 ## September 2023
 

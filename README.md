@@ -16,19 +16,26 @@ Contest / bug bounty platform profiles:
 
 | Date           | Protocol                                                                             | Platform  | Rank | High | Medium | Low |
 | -------------- | ------------------------------------------------------------------------------------ | --------- | ---- | ---- | ------ | --- |
+| November 2023  | [Morpho Blue](https://github.com/OndrejJuda/audits#morpho-blue)                      | Cantina   | ?    | ?    | ?      | ?   |
 | November 2023  | [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | Code4rena | ?    | ?    | ?      | ?   |
 | October 2023   | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | Sherlock  | 8    | 2    | 0      | -   |
 | September 2023 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | Code4rena | x    | 0    | 0      | 0   |
 | September 2023 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | Code4rena | x    | 0    | 0      | 0   |
-| September 2023 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | Code4rena | ?    | ?    | ?      | ?   |
+| September 2023 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | Code4rena | x    | 0    | 0      | 0   |
 | August 2023    | [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                              | Sherlock  | 47   | 4    | 0      | -   |
 | July 2023      | [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow)            | CodeHawks | 7    | 0    | 3      | 1   |
 | July 2023      | [Beedle](https://github.com/OndrejJuda/audits#beedle)                                | CodeHawks | 151  | 2    | 1      | 0   |
 | June 2023      | [Real Wagmi](https://github.com/OndrejJuda/audits#real-wagmi)                        | Sherlock  | x    | 0    | 0      | -   |
 | June 2023      | [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | Sherlock  | 12   | 0    | 1      | -   |
-| Summary        | 10                                                                                   |           |      | 8    | 5      | 1   |
+| Summary        | 11                                                                                   |           |      | 8    | 5      | 1   |
 
 ## November 2023
+
+### [Work In Progress] Morpho Blue
+
+Morpho Blue is a trustless lending primitive that offers unparalleled efficiency and flexibility. It enables the creation of isolated lending markets by specifying any loan asset, any collateral asset, a liquidation LTV (LLTV), an oracle, and an interest rate model.
+
+Contest link: [cantina.xyz](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)
 
 ### [Work In Progress] NextGen
 
@@ -63,7 +70,7 @@ The institutional ecosystem for on-chain credit.
 
 Contest link: [code4rena.com](https://code4rena.com/contests/2023-09-centrifuge)
 
-### [Work In Progress] Chainlink Staking v0.2
+### Chainlink Staking v0.2
 
 A security mechanism in which stakers commit LINK in smart contracts to back certain performance guarantees around oracle services.
 

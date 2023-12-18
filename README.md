@@ -14,20 +14,20 @@ Contest / bug bounty platform profiles:
 
 ## All Time Stats
 
-| Date           | Protocol                                                                             | Platform  | Rank | High | Medium | Low |
-| -------------- | ------------------------------------------------------------------------------------ | --------- | ---- | ---- | ------ | --- |
-| November 2023  | [Morpho Blue](https://github.com/OndrejJuda/audits#morpho-blue)                      | Cantina   | ?    | ?    | ?      | ?   |
-| November 2023  | [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | Code4rena | ?    | ?    | ?      | ?   |
-| October 2023   | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | Sherlock  | 8    | 2    | 0      | -   |
-| September 2023 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | Code4rena | x    | 0    | 0      | 0   |
-| September 2023 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | Code4rena | x    | 0    | 0      | 0   |
-| September 2023 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | Code4rena | x    | 0    | 0      | 0   |
-| August 2023    | [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                              | Sherlock  | 47   | 4    | 0      | -   |
-| July 2023      | [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow)            | CodeHawks | 7    | 0    | 3      | 1   |
-| July 2023      | [Beedle](https://github.com/OndrejJuda/audits#beedle)                                | CodeHawks | 151  | 2    | 1      | 0   |
-| June 2023      | [Real Wagmi](https://github.com/OndrejJuda/audits#real-wagmi)                        | Sherlock  | x    | 0    | 0      | -   |
-| June 2023      | [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | Sherlock  | 12   | 0    | 1      | -   |
-| Summary        | 11                                                                                   |           |      | 8    | 5      | 1   |
+| Date           | Protocol                                                                             | Platform  | High | Medium | Low |
+| -------------- | ------------------------------------------------------------------------------------ | --------- | ---- | ------ | --- |
+| November 2023  | [Morpho Blue](https://github.com/OndrejJuda/audits#morpho-blue)                      | Cantina   | ?    | ?      | ?   |
+| November 2023  | [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | Code4rena | 3    | 1      | 0   |
+| October 2023   | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | Sherlock  | 2    | 0      | -   |
+| September 2023 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | Code4rena | 0    | 0      | 0   |
+| September 2023 | [Centrifuge](https://github.com/OndrejJuda/audits#centrifuge)                        | Code4rena | 0    | 0      | 0   |
+| September 2023 | [Chainlink Staking v0.2](https://github.com/OndrejJuda/audits#chainlink-staking-v02) | Code4rena | 0    | 0      | 0   |
+| August 2023    | [Tokemak](https://github.com/OndrejJuda/audits#tokemak)                              | Sherlock  | 4    | 0      | -   |
+| July 2023      | [CodeHawks Escrow](https://github.com/OndrejJuda/audits#codehawks-escrow)            | CodeHawks | 0    | 3      | 1   |
+| July 2023      | [Beedle](https://github.com/OndrejJuda/audits#beedle)                                | CodeHawks | 2    | 1      | 0   |
+| June 2023      | [Real Wagmi](https://github.com/OndrejJuda/audits#real-wagmi)                        | Sherlock  | 0    | 0      | -   |
+| June 2023      | [Unitas Protocol](https://github.com/OndrejJuda/audits#unitas-protocol)              | Sherlock  | 0    | 1      | -   |
+| Summary        | 11                                                                                   |           | 11   | 6      | 1   |
 
 ## November 2023
 

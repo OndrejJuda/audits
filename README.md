@@ -16,7 +16,7 @@ Contest / bug bounty platform profiles:
 
 | Date           | Protocol                                                                             | Platform  | High | Medium | Low |
 | -------------- | ------------------------------------------------------------------------------------ | --------- | ---- | ------ | --- |
-| November 2023  | [Morpho Blue](https://github.com/OndrejJuda/audits#morpho-blue)                      | Cantina   | ?    | ?      | ?   |
+| November 2023  | [Morpho Blue](https://github.com/OndrejJuda/audits#morpho-blue)                      | Cantina   | 0    | 0      | 0   |
 | November 2023  | [NextGen](https://github.com/OndrejJuda/audits#nextgen)                              | Code4rena | 3    | 1      | 0   |
 | October 2023   | [Real Wagmi #2](https://github.com/OndrejJuda/audits#real-wagmi-2)                   | Sherlock  | 2    | 0      | -   |
 | September 2023 | [Venus Prime](https://github.com/OndrejJuda/audits#venus-prime)                      | Code4rena | 0    | 0      | 0   |
@@ -31,7 +31,7 @@ Contest / bug bounty platform profiles:
 
 ## November 2023
 
-### [Work In Progress] Morpho Blue
+### Morpho Blue
 
 Morpho Blue is a trustless lending primitive that offers unparalleled efficiency and flexibility. It enables the creation of isolated lending markets by specifying any loan asset, any collateral asset, a liquidation LTV (LLTV), an oracle, and an interest rate model.
 
@@ -42,8 +42,6 @@ Contest link: [cantina.xyz](https://cantina.xyz/competitions/d86b7f95-e574-4092-
 Advanced smart contracts for launching generative art projects on Ethereum.
 
 Contest link: [code4rena.com](https://code4rena.com/contests/2023-10-nextgen)
-
-Repository: [https://github.com/code-423n4/2023-10-nextgen](https://github.com/code-423n4/2023-10-nextgen)
 
 | ID                                                                                              | Title                                                                                                                        | Severity |
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- |
